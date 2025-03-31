@@ -2,7 +2,7 @@ public class DanielKaplan
 {
 	public static void main(String[] args){
 		for(int i = 0; i<5; i++){
-			System.out.println("not recognized");
+			System.out.println("n");
 		}
 	}
 }
